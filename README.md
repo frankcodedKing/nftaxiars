@@ -1,2 +1,2 @@
-# laravel script for aqru finance made with laravel
+# laravel script for axiars made with laravel
 
